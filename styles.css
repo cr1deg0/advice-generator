@@ -116,7 +116,7 @@ body {
   align-items: center;
   gap: 0.5em;
   font-weight: 700;
-  padding: 2em 1.5em 0 0;
+  padding: 2em;
   cursor: pointer;
 }
 .theme-toggler span {
