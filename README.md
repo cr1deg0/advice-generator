@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/advice-generator-css-grid-vanilla-js-dA0EaXJbkd)
+- [Live Site](https://cr1deg0.github.io/advice-generator/)
 
 ## My process
 
