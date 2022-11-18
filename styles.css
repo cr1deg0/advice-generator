@@ -172,8 +172,11 @@ main p {
 #btn-advice svg {
   fill: var(--neutral-400);
 }
-#btn-advice:hover,
-#btn-advice:focus {
+#btn-advice:disabled {
+  background-color: var(--primary-300);
+}
+#btn-advice:hover:enabled,
+#btn-advice:focus:enabled {
   cursor: pointer;
   box-shadow: 0 0 28px 0px var(--primary-500);
 }
