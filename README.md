@@ -2,6 +2,8 @@
 
 This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+<img width="1329" alt="advice generator" src="https://github.com/cr1deg0/advice-generator/assets/86016298/35a597e1-3149-429f-8885-66cb45cf85eb">
+
 ## Table of contents
 
 - [Overview](#overview)
